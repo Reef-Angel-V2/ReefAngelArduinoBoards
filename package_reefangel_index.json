@@ -1,0 +1,33 @@
+{
+	"packages": [
+		{
+			"name": "Reef Angel Controllers",
+			"maintainer": "Reef Angel Developers",
+			"websiteURL": "http://www.reefangel.com",
+			"email": "info@reefangel.com",
+			"help": {
+				"online": "https://forum.reefangel.com"
+			},
+			"platforms": [
+				{
+					"name": "Reef Angel Controllers",
+					"architecture": "avr",
+					"version": "1.0.0",
+					"category": "Contributed",
+					"url": "https://github.com/Reef-Angel-V2/ReefAngelArduinoBoards/raw/Master/ReefAngelControllers-v1.0.2.tar.gz",
+					"archiveFileName": "ReefAngelControllers-v1.0.2.tar.gz",
+					"checksum": "SHA-256:69345c96f458e249b18b4be9a6c79687731a4f5a061d4e7f4024d6360db495d2",
+					"size": "124336",
+					"boards": [
+						{"name": "Reef Angel Star Controller"},
+						{"name": "Reef Angel Plus Controller"},
+						{"name": "Reef Angel Controller w/ optiboot"},
+						{"name": "Reef Angel Controller"}
+					],
+					"toolsDependencies": []
+				}
+			],
+			"tools": []
+		}
+	]
+}
